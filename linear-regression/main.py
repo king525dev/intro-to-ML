@@ -10,7 +10,7 @@ def computeErrorForLineGivenPoints(c, m, points):
           #Get 'y' value
           y = points[i, 1]
           #Get differemce , square it, then add it to the total
-          totalError += (y -(m * x + c)) ** 2
+          totalError += (y - ((m * x) + c)) ** 2
 
      #Return the Average
      return totalError / float(len(points))
@@ -24,13 +24,36 @@ def gradientDescentRunner(points, startingC, startingM, learningRate, numOfItera
      for i in range(numOfIterations):
           #Update c and m with the new, more accurate, c and m by performing
           #this gradient step
-          b, m = stepGradient(c, m, array(points), learningRate)
+          c, m = stepGradient(c, m, array(points), learningRate)
 
      #Return Optimal value
-     return [b, m]
+     return [c, m]
 
 #The Magic
-def stepGradient(currentC, currentM, points, learningRate)
+def stepGradient(currentC, currentM, points, learningRate):
+
+     #Starting Point for our gradients
+     gradientC = 0
+     gradientM = 0
+
+     N = float(len(points))
+
+     for i in range(0 ,len(points)):
+          #Get 'x' value
+          x = points[i, 0]
+          #Get 'y' value
+          y = points[i, 1]
+
+          #Direction with respect to c and m
+          #Computing Partial derivatives of out error function
+          gradientC += -(2 / N) * (y - ((currentM * x) + currentC))
+          gradientM += (2 / N) * x * (y - ((currentM * x) + currentC))
+
+     #Update c and m values using our partial derivatives
+     newC = currentC - (learningRate * gradientC)
+     newM = currentM - (learningRate * gradientM)
+
+     return [newC, newM]
 
 def run():
      
