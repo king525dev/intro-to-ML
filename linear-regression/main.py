@@ -15,6 +15,23 @@ def computeErrorForLineGivenPoints(c, m, points):
      #Return the Average
      return totalError / float(len(points))
 
+def gradientDescentRunner(points, startingC, startingM, learningRate, numOfIterations):
+     #Starting c and m
+     c = startingC
+     m = startingM
+
+     #Gradient Desc
+     for i in range(numOfIterations):
+          #Update c and m with the new, more accurate, c and m by performing
+          #this gradient step
+          b, m = stepGradient(c, m, array(points), learningRate)
+
+     #Return Optimal value
+     return [b, m]
+
+#The Magic
+def stepGradient(currentC, currentM, points, learningRate)
+
 def run():
      
      #Step 1 - Collect data
