@@ -21,8 +21,9 @@ def outputAnalysis(wordFrequency, uniqueWords):
 
 def plotAnalysis(wordFrequency, uniqueWords):
      freq = wordFrequency.values()
+     cate = wordFrequency.keys()
 
-     plt.bar(uniqueWords, freq)
+     plt.bar(cate, freq)
      plt.xlabel('Words')
      plt.ylabel('Frequency')
      plt.title('Frequency of Words')
