@@ -93,3 +93,9 @@ def cli_interface():
 
 if __name__ == "__main__":
      cli_interface()
+
+
+"""
+Usage:
+` python llm-v2-cli.py --start `
+"""
