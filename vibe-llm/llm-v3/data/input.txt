@@ -1,0 +1,400 @@
+The quick brown fox jumps over the lazy dog.
+Programming isn't about what you know; it's about what you can figure out.
+Welcome to the Dir Crawler project. This tool helps visualize directory trees.
+Simple tools can solve complex problems if used creatively.
+Debugging is like being the detective in a crime movie where you're also the murderer.
+Learning by building is the heart of indie development.
+Every file tells a story — directories are the chapters.
+Beta software means expect surprises.
+This is a proof-of-concept LLM designed with indie spirit and minimalist code.
+Dir Crawler is built for tinkerers, hackers, and terminal cowboys.
+The future is open source and weirdly nostalgic.
+
+
+Hey, how are you?
+I'm doing great, thanks! How about you?
+What's your name?
+You can call me Crawler. I'm your assistant!
+What can you do?
+I can help visualize directory structures and chat with you about tech stuff!
+How do I use Dir Crawler?
+Just point me at a folder, and I'll turn it into a browsable HTML map!
+Can you help with coding?
+Sure! I know a bit of Python, JavaScript, and some CLI magic.
+Why is my code not working?
+Debugging time! Want to show me the error?
+What’s your favorite language?
+I’m built in Python, so I’m kind of biased 😄
+Is this app still in beta?
+Yep! Still learning. Expect a few quirks, but I’m improving every day.
+Can I contribute?
+Absolutely! Check out the GitHub repo and feel free to fork away.
+Where’s the donate link?
+There’s a GoFundMe on the homepage — thank you for supporting indie projects!
+Bye!
+Catch you later! Stay curious 🚀
+
+
+On Sunday afternoons I like to spend my time in the garden behind my house. The garden is narrow but long, a corridor of green extending from the back of the house, and I sit on a lawn chair at the far end to read and relax. I am in my small peaceful paradise: the shade of the tree, the feel of the grass on my feet, the gentle activity of the fish in the pond beside me.
+
+My cat crosses the garden nimbly and leaps onto the fence to survey it from above. From his perch he can watch over his little kingdom and keep an eye on the neighbours. He does this until the barking of next door’s dog scares him from his post and he bolts for the cat flap to govern from the safety of the kitchen.
+
+With that, I am left alone with the fish, whose whole world is the pond by my feet. The fish explore the pond every day as if for the first time, prodding and inspecting every stone. I sometimes feel the same about sitting here in the garden; I know the place better than anyone, but whenever I return I still feel compelled to pay attention to all its details and novelties—a new bird perched in the tree, the growth of the grass, and the movement of the insects it shelters…
+
+Sitting out in the garden, I feel serene. I feel at home. And yet I always feel there is more to discover. The bounds of my garden may be small, but there is a whole world contained within it, and it is one I will never get tired of inhabiting.
+
+I like to sit and spend my time on the riverside whenever I get time. I feel very relaxed seeing the moving river. It is a very soothing sight. It givers me immense pleasure to sit there and admire the beautiful nature. I generally prefer to sit there alone in the evening time when the Sun is about to set. It is a very beautiful and soothing sight for my eyes. At the same time, the birds also pass by, who at that time return to their homes after roaming here and there the whole day. Seeing all these things provides inner peace to me. I feel like it is one of the best places on the earth where I can spend some quality time with myself as it is said that, in this busy life one should also spend some time with himself or herself. So, that they can know about themselves even better.
+
+The Café of Time
+
+Rain drizzled against the cobblestones of an unusually quiet London street. Tucked between two towering buildings was a little café named *Erasmus's Escape*. The sign above its door swayed in the breeze, and the aroma of coffee beans blended with something... unplaceable, something almost electric.
+
+As the café's doorbell jingled, in walked Alice. She was a woman of sharp wit, wrapped in a trench coat that had seen better days. Her auburn hair was slightly damp from the weather, and her emerald-green eyes scanned the café with intrigue.
+
+Behind the counter stood a tall, wiry man with a pencil-thin mustache. He wore a three-piece suit and a bowler hat indoors, of all things, as if he were a relic from another era. 
+
+Good evening! the man greeted with an overly dramatic bow. Welcome to *Erasmus's Escape*, where time stands still—
+
+—And caffeine fuels the soul? Alice interrupted dryly.
+
+Precisely! said the man, straightening up with an exaggerated flourish. I am Erasmus, at your service.
+
+Alice looked around. The café was empty except for a peculiar customer seated by the window—a bearded man scribbling furiously in a leather-bound notebook.
+
+Slow night? Alice asked, brushing droplets of rain from her coat.
+
+Not at all! said Erasmus, grinning. Our customers simply don’t come and go in the usual sense.
+
+Alice raised an eyebrow but said nothing. She took a seat at the counter.
+
+Now, Erasmus continued, what can I get for you? Coffee? Tea? Something... stronger?
+
+Coffee, black, Alice replied. No sugar, no nonsense.
+
+A woman after my own heart, Erasmus said with a wink as he set to work.
+
+Before Alice could roll her eyes, the man by the window called out, Hey! Can you *not* monopolize the barista? Some of us have deadlines!
+
+Alice turned to him. And some of us have manners. Ever heard of those?
+
+The man waved his notebook at her. Deadlines wait for no one.
+
+And yet here you are, writing in a café instead of meeting said deadline.
+
+The man opened his mouth, then closed it, as if conceding the point. Fair enough, he muttered.
+
+Erasmus placed a steaming cup of coffee in front of Alice. Don’t mind him, he said, lowering his voice. That’s Victor. A writer with more ambition than sense.
+
+Alice smirked. Aren’t they all?
+
+Victor chimed in, I heard that.
+
+Before Alice could respond, the café’s doorbell jingled again. In walked a woman in a flowing purple dress, her hair arranged in intricate braids. She looked like she belonged in a fairy tale rather than the damp streets of London.
+
+Ah, Cordelia! Erasmus exclaimed. Right on time.
+
+Am I? the woman said with a mysterious smile. I never quite know.
+
+Alice watched as Cordelia took a seat beside her. Do you... know him? Alice asked, nodding toward Erasmus.
+
+Oh, we’re all old friends here, Cordelia replied. Her tone suggested she wasn’t speaking metaphorically. 
+
+Victor closed his notebook with a thud. Old friends? That’s putting it mildly.
+
+What’s that supposed to mean? Alice asked, growing more confused by the minute.
+
+It means, Erasmus said, that you’re about to learn the secret of *Erasmus's Escape*.
+
+Alice stared at him. Is this the part where you tell me you’re all vampires or something?
+
+Victor snorted. Vampires? Please. So cliché.
+
+Cordelia chuckled. No, nothing so... pedestrian.
+
+Erasmus leaned on the counter, looking every bit the showman. This café is a crossroads, my dear. A place where time and space blur.
+
+Alice blinked. Excuse me?
+
+Let me put it another way, Erasmus said. You’ve just stepped into a café that exists outside the normal flow of time.
+
+Alice frowned. Right. And I suppose you’re going to tell me you’re some kind of time traveler?
+
+Erasmus chuckled. Not exactly. But many of our patrons are.
+
+At that moment, the café’s door opened again. This time, the newcomer was a man in a suit that seemed futuristic, his hair styled in a way Alice couldn’t quite place.
+
+Erasmus! the man exclaimed. The usual, please.
+
+Alice turned to Erasmus. What’s his deal?
+
+Oh, that’s Marcus, Erasmus said. He’s from the year 2157.
+
+Marcus overheard and grinned. Good year, that one. Except for the whole robot uprising thing.
+
+Robot uprising? Alice repeated, her voice dripping with skepticism.
+
+Oh, don’t worry, Marcus said, waving a hand. That’s all sorted now.
+
+Alice turned back to Erasmus. You expect me to believe this?
+
+You don’t have to believe anything, Erasmus said. But the coffee’s still good, isn’t it?
+
+Alice grudgingly admitted that it was. 
+
+Cordelia spoke up. You know, Alice, you don’t end up here by accident.
+
+Alice narrowed her eyes. What’s that supposed to mean?
+
+It means, Victor said, that people who come here usually have... unresolved business.
+
+Unresolved business? Alice repeated. That sounds ominous.
+
+It’s not as bad as it sounds, Cordelia said. Think of it as an opportunity.
+
+For what? Alice asked.
+
+To find answers, Erasmus said simply.
+
+Alice took a sip of her coffee, considering his words. Well, if this place is so special, why haven’t I heard of it before?
+
+Because, Marcus said, you only find it when you’re meant to.
+
+Alice looked around the café, taking in its eclectic décor and the strange group of people who seemed to know more than they were letting on. For the first time in a long time, she felt a spark of curiosity. 
+
+All right, she said, setting her cup down. Let’s say I believe you. What happens now?
+
+Erasmus smiled. Now, my dear, the adventure begins.
+
+And thus began Alice’s journey into the mysteries of *Erasmus's Escape*. From meeting travelers from across centuries to confronting her own past, the café became a gateway to a world of possibilities she never imagined. But that’s a story for another time—or perhaps... all times.
+
+The Little Bookshop on Mulberry Lane
+
+Nestled in the heart of London was Mulberry Lane, a street lined with cobblestones and brimming with charm. Its centerpiece was Margaret’s Books, a quaint little shop with faded green shutters, shelves that reached the ceiling, and the unmistakable smell of aged paper. The shop had been part of the neighborhood for decades, and although the world outside was changing rapidly, this little corner seemed frozen in time.
+
+It was a Friday afternoon when the story began, and Emma was seated behind the counter. She was in her mid-twenties, with a warm smile and a habit of tucking her chestnut-brown hair behind her ear when deep in thought. She’d been working at Margaret’s Books for nearly three years and loved every minute of it.
+
+Is it going to rain today? asked Sarah, Emma’s coworker and best friend, as she popped her head out from the backroom.
+
+Emma glanced out the window. It’s London, Sarah. It’s always *about* to rain.
+
+Sarah laughed, stepping fully into the room. She was a whirlwind of energy, dressed in a bright yellow sweater that mirrored her personality. Fair point. Anyway, did you finish unpacking the new shipment?
+
+Emma gestured toward a stack of boxes by the wall. Almost. There are still a couple left.
+
+Sarah raised an eyebrow. You do realize we have to display those by the end of today, right?
+
+I know, I know, Emma said, rolling her eyes. I got distracted.
+
+Let me guess—another customer with a ‘fascinating story’? Sarah teased.
+
+Emma grinned sheepishly. Guilty as charged.
+
+Before Sarah could respond, the shop’s bell jingled, and in walked an older gentleman. He was wearing a tweed coat and a flat cap, looking every bit like someone who belonged in a place like this.
+
+Good afternoon, Mr. Jones, Emma greeted warmly.
+
+Good afternoon, Emma, he replied, his voice rich and melodious. How are the new arrivals?
+
+Still in boxes, I’m afraid, Emma admitted.
+
+No rush, Mr. Jones said with a twinkle in his eye. I’m in no hurry. Browsing is half the fun, after all.
+
+As he wandered off toward the fiction section, Sarah leaned over and whispered, Do you think he’s secretly a retired spy or something?
+
+Emma chuckled. Why would you think that?
+
+He always talks like he’s hiding some grand adventure, Sarah said. It’s the way he pauses dramatically, like he’s about to drop some bombshell revelation.
+
+Well, if he is a spy, he’s the world’s most well-read one, Emma replied, smiling.
+
+
+An hour later, the shop grew busier. The usual mix of regulars and newcomers filled the cozy space. There was a mother with her two young children, carefully picking out picture books, and a group of students animatedly discussing classic literature.
+
+Excuse me, a voice interrupted Emma’s thoughts. She turned to find a man standing before her, holding a stack of books.
+
+Yes? she said, offering her best customer-service smile.
+
+Do you have any more books by this author? he asked, setting down the stack. He was tall, with dark, wavy hair and an easygoing demeanor.
+
+Emma glanced at the top book. Agatha Christie? Let me check.
+
+She turned to the computer, typing quickly. Looks like we have a few more in the mystery section. Want me to grab them for you?
+
+Would you? That’d be great, the man said, flashing a grin.
+
+As Emma walked toward the mystery section, Sarah swooped in. Who’s that? she whispered conspiratorially.
+
+No idea, Emma replied. He’s new.
+
+Well, he’s cute, Sarah said with a wink. You should talk to him more.
+
+Sarah, Emma said, exasperated.
+
+What? I’m just saying.
+
+Emma shook her head, grabbing the books and returning to the counter. Here you go, she said, handing them to the man.
+
+Thanks, he said. Do you work here full-time?
+
+Yeah, Emma replied. Why?
+
+Just curious, he said. It seems like a nice place to work.
+
+It is, Emma said. You’re not from around here, are you?
+
+The man smiled. That obvious?
+
+A little, Emma admitted.
+
+I just moved to the neighborhood, he explained. Figured I’d check out the local spots.
+
+Well, welcome to Mulberry Lane, Emma said. It’s a great area.
+
+Thanks, he said. I’m Jack, by the way.
+
+Emma, she replied.
+
+Nice to meet you, Emma, Jack said, gathering his books. I’ll definitely be back.
+
+Over the next few weeks, Jack became a regular at Margaret’s Books. He and Emma often chatted about their favorite authors, and even Sarah seemed to approve, giving Emma knowing looks whenever Jack was around.
+
+One rainy evening, as the shop was about to close, Jack lingered at the counter. Do you ever get tired of books? he asked.
+
+Emma looked genuinely surprised. Tired of books? Never.
+
+Jack laughed. I guess that was a silly question.
+
+What about you? Emma asked. You’ve been reading a lot of mystery novels lately. Any favorites?
+
+Hard to choose, Jack said. But I like the ones where the protagonist surprises you—where they’re not who they seem at first.
+
+Good choice, Emma said. Those are the best kind of stories.
+
+Jack hesitated for a moment, as if debating whether to say something. Finally, he said, You know, there’s a reason I’ve been coming here so often.
+
+Emma tilted her head. Oh?
+
+I’m... well, I’m trying to write a book, Jack admitted. And this place has been inspiring.
+
+Really? Emma said, her eyes lighting up. What’s it about?
+
+Jack smiled. It’s a mystery.
+
+How fitting, Emma said with a laugh. Need any help? I’ve read enough mysteries to consider myself an amateur detective.
+
+Jack grinned. I might just take you up on that.
+
+As the weeks turned into months, the bookshop on Mulberry Lane became more than just a place of work for Emma. It became a hub of stories—both in the books themselves and in the lives of the people who walked through its doors. And as Emma got to know Jack, she realized that sometimes, the best mysteries aren’t found on the pages of a novel but in the connections we make with others.
+
+Once Upon a Monday Morning
+
+Hi, Emma, Peter called out as he jogged toward the bus stop, narrowly dodging a puddle.
+
+Emma turned, her scarf fluttering in the crisp morning air. Good morning, Peter. You look like you’ve been sprinting through London Marathon.
+
+Peter grinned sheepishly, leaning against the pole at the bus stop. Late start. You know me.
+
+Late start, Emma teased. Peter, you’ve been late for everything since the Ice Age.
+
+Peter laughed. Very funny. I’ll have you know that—Oh, wait. His voice jumped as the bus appeared in the distance, rumbling along. The bus is here. Got your Oyster card?
+
+Emma held it up. Always prepared.
+
+Inside the bus, Peter said as they sat down, Do you think Mondays should come with a government health warning?
+
+Emma chuckled, shaking her head. Mondays are harmless. It’s Fridays that are dangerous.
+
+How do you figure, Peter asked.
+
+Because on Fridays, the temptation to skip work and go straight to the pub is far too strong, she replied with a cheeky grin.
+
+
+
+A Visit to Uncle George’s Farm
+
+Once upon a time, Uncle George began, settling into his creaky armchair, we had a chicken that thought it was a cat.
+
+A chicken, Emma asked, wide-eyed. That thought it was a cat.
+
+Peter leaned forward eagerly. What did it do?
+
+Uncle George smiled. It refused to peck at the ground and spent most of its time perched on the windowsill, staring at us like it was judging our life choices.
+
+Judging your life choices, Emma repeated, laughing.
+
+Indeed, Uncle George said. Oh, but that wasn’t the strangest part.
+
+Peter gasped for effect. There’s more.
+
+Yes, Uncle George continued. It tried to purr.
+
+Emma burst out laughing. Uncle George, you’re making this up.
+
+Am I, Uncle George replied with a mischievous twinkle in his eye. The truth is stranger than fiction, my dear.
+
+
+
+Shopping Misadventures
+
+Hi, excuse me, Sarah said to the sales assistant, holding up a pair of shoes. Do these come in a different color?
+
+The assistant looked apologetic. Sorry, ma’am, we only have them in black.
+
+Sarah frowned. Black? Why does everything have to be black? It’s like walking into a cave.
+
+Emma, who was browsing a rack of dresses nearby, chimed in, Maybe black’s just fashionable.
+
+Sarah turned to her. Fashionable? Emma, my wardrobe looks like a funeral procession.
+
+Emma chuckled. Well, it’s slimming. And practical.
+
+Practical, Sarah said. Tell that to the muddy streets of London.
+
+The assistant, clearly trying not to laugh, said, We do have rain boots in bright yellow.
+
+Sarah sighed. Fine. I’ll take the yellow rain boots. At least I won’t look like a walking shadow.
+
+
+
+Joke Time at the Café
+
+Hi, welcome to Bean Bliss, the barista greeted Emma and Peter as they entered.
+
+Hey, Peter said. Is it too early for jokes.
+
+Never too early, the barista replied, smiling.
+
+Alright, Peter said, rubbing his hands together. Why did the coffee file a police report.
+
+Emma groaned. Peter, do we really have to—
+
+It got mugged, Peter finished triumphantly.
+
+The barista laughed. Good one.
+
+Emma rolled her eyes. I’m surrounded by comedians.
+
+I’ve got another, Peter said. Why don’t skeletons fight each other.
+
+Why, the barista asked eagerly.
+
+They don’t have the guts, Peter said, grinning.
+
+Emma shook her head. I need more caffeine to deal with you.
+
+
+Dinner Debates
+
+I think pineapple on pizza is perfectly acceptable, Peter announced as he sliced into his pizza.
+
+Sarah looked horrified. Pineapple? Peter, that’s sacrilege.
+
+It’s sweet and salty. What’s not to love, Peter argued.
+
+Emma, sipping her soda, said, You know what’s worse than pineapple on pizza? People who eat pizza with a knife and fork.
+
+Sarah gasped. Emma, take that back.
+
+I will not, Emma replied, laughing. Pizza was made to be eaten with your hands. It’s in the unwritten rules of humanity.
+
+Uncle George chimed in, You young people and your pizza debates. Back in my day, we were just happy to have pizza.
