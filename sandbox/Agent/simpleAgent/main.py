@@ -35,13 +35,29 @@ graph = graphBuilder.compile();
 
 userInput =  input("Enter a message: ");
 
-while userInput.lower() != "exit":
+while userInput.strip() != "":
      state = graph.invoke(
           {"messages": [
                {"role": "user", "content": userInput}
           ]}
      )
 
+     print("\n---\n");
      print("Chatbot response: ", state["messages"][-1].content);
      print("\n---\n");
      userInput =  input("Enter a message: ");
+     print(userInput.lower().strip());
+
+# Generate Agent Diagram
+from IPython.display import Image;
+
+try: 
+     imageData = Image(graph.get_graph().draw_mermaid_png());
+     
+     if imageData.data:  
+          with open("diagram.png", "wb") as f:
+               f.write(imageData.data)
+               print("`diagram.png` refreshed")
+
+except Exception as e:
+     print("Could not generate graph image:", e);
